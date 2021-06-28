@@ -2,7 +2,7 @@
 
 Sistemimiz üç temel kullanıcı türüne sahiptir. Sistem personeli, İş Arayanlar ve İş verenler. Sistem personeli : Projenizde çalışan kişiler. Örneğin Kariyer.Net personeli.
 
-Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
+→ Req 1 : İş Arayanlar sisteme kayıt olabilmelidir.
 
 Kabul Kriterleri:
 
@@ -18,7 +18,7 @@ Daha önce kayıtlı bir e-posta veya tcno var ise kayıt gerçekleşmez. Kullan
 
 Kayıdın gerçekleşmesi için e-posta doğrulaması gerekir.
 
-Req 2 : İş verenler sisteme kayıt olabilmelidir.
+→ Req 2 : İş verenler sisteme kayıt olabilmelidir.
 
 Kabul Kriterleri:
 
@@ -31,7 +31,7 @@ Tüm alanlar zorunludur. Kullanıcı bilgilendirilir.
 
 Daha önce kayıtlı bir e-posta var ise kayıt gerçekleşmez. Kullanıcı bilgilendirilir.
 
-Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.
+→ Req 3 : Sisteme genel iş pozisyonu isimleri eklenebilmelidir. Örneğin Software Developer, Software Architect.
 
 Kabul Kriterleri:
 
