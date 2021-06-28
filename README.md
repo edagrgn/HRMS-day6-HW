@@ -37,3 +37,4 @@ Kabul Kriterleri:
 
 Bu pozisyonlar tekrar edemez. Kullanıcı uyarılır.
  
+ 
